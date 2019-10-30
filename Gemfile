@@ -8,6 +8,7 @@ gem 'autoprefixer-rails'
 gem 'font-awesome-sass', '~> 5.6.1'
 gem 'simple_form'
 gem 'rails', '~> 5.2.3'
+gem 'faker'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
